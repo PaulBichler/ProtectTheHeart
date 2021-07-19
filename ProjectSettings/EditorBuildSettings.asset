@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartMenu.unity
+    guid: d4e139d52dbca3a479f0e31154a9e354
+  - enabled: 1
+    path: Assets/Scenes/LevelBase.unity
+    guid: db0a9a5dcd865fd488209a70f40e8144
+  - enabled: 1
+    path: Assets/Scenes/Lobby.unity
+    guid: a1fd6b2c9632ac04b8db799420a79e8d
+  - enabled: 1
+    path: Assets/Scenes/Levels/L_Blocked.unity
+    guid: 4648a5170ec482346a0b8151acc80912
+  - enabled: 1
+    path: Assets/Scenes/Levels/L_Box.unity
+    guid: 3fb7806b48290214eaaf003766ad9240
+  - enabled: 1
+    path: Assets/Scenes/Levels/L_Circle.unity
+    guid: 73c23306d0057224cabc64d0ef8d0267
+  - enabled: 1
+    path: Assets/Scenes/Levels/L_Diagonal.unity
+    guid: 0cb1edc58800a964bb936cb15225a0b6
+  - enabled: 1
+    path: Assets/Scenes/Levels/L_FewBox.unity
+    guid: dd093ef11a3c5e04a998ef5104ec8303
+  - enabled: 1
+    path: Assets/Scenes/Levels/L_H.unity
+    guid: 6c41ad022651c3e4ba5c4039389fce1e
+  - enabled: 1
+    path: Assets/Scenes/Levels/L_Pointer.unity
+    guid: ab2f146e0943a6444a55dd23a7868bc8
+  - enabled: 1
+    path: Assets/Scenes/Levels/L_SmallBox.unity
+    guid: d149c9af92ad63546b9422f4daf3a8d6
+  - enabled: 1
+    path: Assets/Scenes/Levels/L_Symbol.unity
+    guid: 9079656613653054eb587a8075e0cfcd
+  - enabled: 1
+    path: Assets/Scenes/Levels/L_TwoSide.unity
+    guid: a33efc8af7c585141b777f2945540b07
+  - enabled: 1
+    path: Assets/Scenes/EndScene.unity
+    guid: 0b59f6f57de2b294992c131ef6e10733
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 1a67423ada046024cb4766338c6fefae,
+      type: 2}

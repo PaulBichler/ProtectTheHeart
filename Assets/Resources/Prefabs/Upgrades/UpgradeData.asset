@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dae2c444bab572242b87d4bcbf32e977, type: 3}
+  m_Name: UpgradeData
+  m_EditorClassIdentifier: 
+  UpgradeData:
+  - UpgradeTexture: {fileID: 2800000, guid: 2ab715514f1b68044aecdddcc5d71389, type: 3}
+    Color: {r: 1, g: 0, b: 0, a: 1}
+    UpgradeEnum: 3
+  - UpgradeTexture: {fileID: 2800000, guid: 98876c313eb68f04b9dab19082fc9185, type: 3}
+    Color: {r: 1, g: 0, b: 0, a: 1}
+    UpgradeEnum: 6
+  - UpgradeTexture: {fileID: 2800000, guid: 41a09ee9d71e3864eb84b0d18e6466b3, type: 3}
+    Color: {r: 1, g: 0, b: 0, a: 1}
+    UpgradeEnum: 4
+  - UpgradeTexture: {fileID: 2800000, guid: 291106aab6f5e9145b4f1494a6162447, type: 3}
+    Color: {r: 1, g: 0, b: 0, a: 1}
+    UpgradeEnum: 2
+  - UpgradeTexture: {fileID: 2800000, guid: 2a565c936ebf7cd44bbac80c40f28de4, type: 3}
+    Color: {r: 1, g: 0, b: 0, a: 1}
+    UpgradeEnum: 7
+  - UpgradeTexture: {fileID: 2800000, guid: 6784242154366654f86d422253666198, type: 3}
+    Color: {r: 1, g: 0, b: 0, a: 1}
+    UpgradeEnum: 5
+  - UpgradeTexture: {fileID: 2800000, guid: cbe5f4025b04b4744846d815d61c8320, type: 3}
+    Color: {r: 1, g: 0, b: 0, a: 1}
+    UpgradeEnum: 8
+  - UpgradeTexture: {fileID: 2800000, guid: 586e55979676a17429aacaebe80d0e09, type: 3}
+    Color: {r: 1, g: 0, b: 0, a: 1}
+    UpgradeEnum: 9
+  - UpgradeTexture: {fileID: 2800000, guid: ee53fa57d0b4de14c9ac5208c87ea319, type: 3}
+    Color: {r: 1, g: 0.5179003, b: 0, a: 1}
+    UpgradeEnum: 17
+  - UpgradeTexture: {fileID: 2800000, guid: 08411c00d08aa954392ba54af82c669c, type: 3}
+    Color: {r: 1, g: 0.5179003, b: 0, a: 1}
+    UpgradeEnum: 18
+  - UpgradeTexture: {fileID: 2800000, guid: 8b3c59a5f3fe45c4083177865b2a01de, type: 3}
+    Color: {r: 0, g: 0.48192453, b: 1, a: 1}
+    UpgradeEnum: 13

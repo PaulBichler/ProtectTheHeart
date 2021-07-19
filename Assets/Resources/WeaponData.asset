@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9f9ebb3dc4c4231acbb0c231fad555d, type: 3}
+  m_Name: WeaponData
+  m_EditorClassIdentifier: 
+  weaponData:
+  - UpgradeEnum: 1
+    FireRate: 1
+    Force: 2000
+    Scale: 1
+    TimeBurst: 0
+    Radius: 0
+  - UpgradeEnum: 2
+    FireRate: 0.8
+    Force: 2000
+    Scale: 1
+    TimeBurst: 0
+    Radius: 0
+  - UpgradeEnum: 3
+    FireRate: 2
+    Force: 2000
+    Scale: 1
+    TimeBurst: 0
+    Radius: 3
+  - UpgradeEnum: 4
+    FireRate: 3
+    Force: 2000
+    Scale: 1
+    TimeBurst: 0
+    Radius: 0
+  - UpgradeEnum: 5
+    FireRate: 2
+    Force: 2000
+    Scale: 1
+    TimeBurst: 0
+    Radius: 0
+  - UpgradeEnum: 6
+    FireRate: 2
+    Force: 1000
+    Scale: 2
+    TimeBurst: 0
+    Radius: 0
+  - UpgradeEnum: 7
+    FireRate: 1.5
+    Force: 3000
+    Scale: 0.5
+    TimeBurst: 0
+    Radius: 0
+  - UpgradeEnum: 8
+    FireRate: 2
+    Force: 2000
+    Scale: 1
+    TimeBurst: 150
+    Radius: 0
+  - UpgradeEnum: 9
+    FireRate: 2
+    Force: 2000
+    Scale: 1
+    TimeBurst: 0
+    Radius: 0
